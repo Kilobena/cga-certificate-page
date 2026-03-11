@@ -1,10 +1,10 @@
 export default function App() {
     const certificate = {
         title: 'Certificate of Operation',
-        website: 'vbet.com',
-        company: 'Radon B.V.',
-        companyNumber: '126922',
-        licenseNumber: 'OGL/2024/802/0282',
+        website: 'asbet.org',
+        company: 'ASBET B.V.',
+        companyNumber: '1267365',
+        licenseNumber: 'OGL/2024/609/8763',
         grantedOn: '01/07/2024',
         status: 'Active',
         sealUrl:
