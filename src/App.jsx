@@ -8,7 +8,7 @@ export default function App() {
         grantedOn: '01/07/2024',
         status: 'Active',
         sealUrl:
-            'https://portalimg.certcga.com/?token=ZXlKcGRpSTZJbUZ4U2tzMlZrRXJTWFExYjNObGJteDVkakZ5Um5jOVBTSXNJblpoYkhWbElqb2lVWEpCVlZndlIzZHFVV1ZEY1dSUmNWY3JWVnB6UVQwOUlpd2liV0ZqSWpvaVlqazVZMkl4TW1aak9EZzRNamcwWmpoa056WmxZalZpWVRWak9HRTBNR1V5TWpnek5qY3labU13WmpWbU5ESXpPV0V6WkdZeFlqWm1PRGcxT1dGbE5DSXNJblJoWnlJNklpSjk=',
+            'https://cmsbetconstruct.com/storage/medias/asbet-18756444/media_18756444_c0a60de19a909db2f6d305dfa8f1f19b.png',
     };
 
     return (
@@ -234,11 +234,7 @@ export default function App() {
 
                 <footer className="footer">
                     <p>Copyright 2026 Curaçao Gaming Authority</p>
-                    <p>
-                        <a href="/page/certification_policy">Terms</a>
-                        <span className="dot">•</span>
-                        <a href="/page/privacy_statement">Privacy Policy</a>
-                    </p>
+
                 </footer>
             </div>
         </>
